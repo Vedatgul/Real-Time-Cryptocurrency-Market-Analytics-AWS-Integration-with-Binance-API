@@ -1,4 +1,4 @@
-# Real-Time-Cryptocurrency-Market-Analytics-AWS-Integration-with-Binance-API
+#  Real-Time-Cryptocurrency-Market-Analytics-AWS-Integration-with-Binance-API
 
 ![project](https://github.com/mmehmetisik/Real-Time-Cryptocurrency-Market-Analytics-AWS-Integration-with-Binance-API/assets/64706956/34db4131-1693-4ff1-afda-7d0702aa5055)
 
